@@ -18,5 +18,5 @@ Each package is modular, self-contained, and ready to drop into any BallsDex bot
 | 📅 **Advent Calender** | ✅ Working | *To lazy rn* |
 
 ---
-[!IMPORTANT]
-**Repository:** By [Haymooed](https://github.com/Haymooed/BallsDex-Packages)
+> [!IMPORTANT]
+> **Repository:** By [Haymooed](https://github.com/Haymooed/BallsDex-Packages)
