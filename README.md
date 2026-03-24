@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Cancelled development - no more support for errors ect
+
+
 # 🧩 BallsDex Packages
 
 A collection of community-made **BallsDex packages** that expand gameplay and add new mechanics, events, and collectible systems.  
